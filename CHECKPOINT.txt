@@ -1,4 +1,4 @@
-algorithme
+algorithme Tab
 
 VAR 
 T,X:interger;
