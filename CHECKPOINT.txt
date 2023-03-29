@@ -1,4 +1,4 @@
-check algo
+algorithme
 
 VAR 
 T,X:interger;
