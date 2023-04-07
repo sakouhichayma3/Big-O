@@ -3,11 +3,11 @@ algorithme Tab
 VAR 
 T,X:interger;
 BEGIN
-for i:=1 a n-1 do
+for i=1 to n-1 do
 X:=T[i];
 j:=i;
 until((j>0) and (T[j-1]>X) do 
-
+end for
 T[j]:=T[j-1];
 j:=j-1;
 END until;
